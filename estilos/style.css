@@ -166,6 +166,7 @@ aside > ul{
     columns: 2;
     padding: 10px;
     list-style-type: '\2714\00a0';
+    font-size:14px;
 }
 aside abbr{
     text-decoration: none;
