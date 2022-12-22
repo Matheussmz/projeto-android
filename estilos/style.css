@@ -157,7 +157,7 @@ aside > ul{
     list-style-position: inside;
     columns: 2;
     padding: 10px;
-    list-style-type: '\2714\00a0\00a0';
+    list-style-type: '\2714\00a0';
 }
 aside abbr{
     text-decoration: none;
